@@ -1,0 +1,38 @@
+=== Started 2018-09-24T12-57-08-742 ===
+[INFO ][12:57:08] 33 bad words loaded
+[WARN ][12:57:08] Unknown user role: JOKER
+[INFO ][12:57:08] 4 user records loaded.
+[INFO ][12:57:08] 0 IP ban records loaded.
+[INFO ][12:57:08] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][12:57:08] WebSocket: ws
+[INFO ][12:57:08] Started stats server on port 1051
+[INFO ][12:57:08] Listening on port 8081
+[INFO ][12:57:08] Current game mode is Duels US 1
+[NONE ][12:57:08]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][12:57:10] CONNECTED 10.240.1.97:34290, origin: "http://3rbe.gq"
+[NONE ][12:57:10] CONNECTED 10.240.0.227:45500, origin: "http://3rbe.gq"
+[NONE ][12:57:11] DISCONNECTED 10.240.0.227:45500, code: 1001, reason: "", name: ""
+[NONE ][12:57:13] CONNECTED 10.240.1.97:34338, origin: "http://3rbe.gq"
+[NONE ][12:57:14] DISCONNECTED 10.240.1.97:34338, code: 1005, reason: "", name: ""
+[NONE ][12:57:29] DISCONNECTED 10.240.1.97:34290, code: 1005, reason: "", name: ""
+[NONE ][13:12:48] CONNECTED 10.240.0.187:37638, origin: "http://3rbe.gq"
+[NONE ][13:12:49] DISCONNECTED 10.240.0.187:37638, code: 1005, reason: "", name: ""
+[NONE ][13:13:25] CONNECTED 10.240.0.239:56648, origin: "http://3rbe.gq"
+[NONE ][13:13:56] DISCONNECTED 10.240.0.239:56648, code: 1005, reason: "", name: ""
+[NONE ][13:17:13] CONNECTED 10.240.0.185:47002, origin: "http://3rbe.gq"
+[NONE ][13:17:30] DISCONNECTED 10.240.0.185:47002, code: 1005, reason: "", name: ""
+[NONE ][13:21:43] CONNECTED 10.240.0.90:55278, origin: "http://3rbe.gq"
+[NONE ][13:21:58] DISCONNECTED 10.240.0.90:55278, code: 1005, reason: "", name: ""
+[NONE ][13:31:16] CONNECTED 10.240.1.97:38140, origin: "http://3rbe.gq"
+[NONE ][13:31:16] DISCONNECTED 10.240.1.97:38140, code: 1006, reason: "", name: ""
+[NONE ][13:31:18] CONNECTED 10.240.0.187:53820, origin: "http://3rbe.gq"
+[NONE ][13:31:18] DISCONNECTED 10.240.0.187:53820, code: 1006, reason: "", name: ""
+[NONE ][13:31:19] CONNECTED 10.240.0.239:45348, origin: "http://3rbe.gq"
+[NONE ][13:31:28] DISCONNECTED 10.240.0.239:45348, code: 1005, reason: "", name: "."
+[DEBUG][13:31:28] process.exit(0)
+=== Shutdown 2018-09-24T13-31-28-688 ===

@@ -1,0 +1,32 @@
+=== Started 2018-09-24T14-24-22-514 ===
+[INFO ][14:24:22] 33 bad words loaded
+[WARN ][14:24:22] Unknown user role: JOKER
+[INFO ][14:24:22] 4 user records loaded.
+[INFO ][14:24:22] 0 IP ban records loaded.
+[INFO ][14:24:22] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][14:24:22] WebSocket: ws
+[INFO ][14:24:22] Started stats server on port 1051
+[INFO ][14:24:22] Listening on port 8081
+[INFO ][14:24:22] Current game mode is Duels US 1
+[NONE ][14:24:22]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][14:24:43] CONNECTED 10.240.0.87:41166, origin: "http://3rbe.gq"
+[NONE ][14:24:43] DISCONNECTED 10.240.0.87:41166, code: 1006, reason: "", name: ""
+[NONE ][14:24:45] CONNECTED 10.240.0.227:52008, origin: "http://3rbe.gq"
+[NONE ][14:24:45] DISCONNECTED 10.240.0.227:52008, code: 1006, reason: "", name: ""
+[NONE ][14:24:46] CONNECTED 10.240.0.222:50646, origin: "http://3rbe.gq"
+[NONE ][14:24:54] DISCONNECTED 10.240.0.222:50646, code: 1005, reason: "", name: ""
+[NONE ][14:26:33] CONNECTED 10.240.0.103:48512, origin: "http://3rbe.gq"
+[NONE ][14:26:33] DISCONNECTED 10.240.0.103:48512, code: 1006, reason: "", name: ""
+[NONE ][14:26:35] CONNECTED 10.240.1.220:60540, origin: "http://3rbe.gq"
+[NONE ][14:26:59] CONNECTED 10.240.0.88:36658, origin: "http://3rbe.gq"
+[NONE ][14:27:07] DISCONNECTED 10.240.0.88:36658, code: 1001, reason: "", name: ""
+[NONE ][14:27:16] CONNECTED 10.240.0.88:36996, origin: "http://3rbe.gq"
+[NONE ][14:27:35] DISCONNECTED 10.240.0.88:36996, code: 1005, reason: "", name: ""
+[NONE ][14:27:46] DISCONNECTED 10.240.1.220:60540, code: 1005, reason: "", name: "{er}♥☻☺♥☻1"
+[DEBUG][14:27:46] process.exit(0)
+=== Shutdown 2018-09-24T14-27-46-111 ===

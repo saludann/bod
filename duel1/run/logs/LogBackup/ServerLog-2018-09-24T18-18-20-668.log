@@ -1,0 +1,30 @@
+=== Started 2018-09-24T17-58-09-676 ===
+[INFO ][17:58:09] 33 bad words loaded
+[WARN ][17:58:09] Unknown user role: JOKER
+[INFO ][17:58:09] 4 user records loaded.
+[INFO ][17:58:09] 0 IP ban records loaded.
+[INFO ][17:58:09] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][17:58:09] WebSocket: ws
+[INFO ][17:58:09] Started stats server on port 1051
+[INFO ][17:58:09] Listening on port 8081
+[INFO ][17:58:09] Current game mode is Duels US 1
+[NONE ][17:58:09]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][17:58:25] CONNECTED 10.240.1.97:56284, origin: "http://3rbe.gq"
+[NONE ][17:58:28] DISCONNECTED 10.240.1.97:56284, code: 1005, reason: "", name: ""
+[NONE ][17:58:29] CONNECTED 10.240.1.97:56364, origin: "http://3rbe.gq"
+[NONE ][17:58:35] DISCONNECTED 10.240.1.97:56364, code: 1005, reason: "", name: ""
+[NONE ][18:00:05] CONNECTED 10.240.0.88:57816, origin: "http://3rbe.gq"
+[NONE ][18:00:05] DISCONNECTED 10.240.0.88:57816, code: 1006, reason: "", name: ""
+[NONE ][18:00:06] CONNECTED 10.240.0.88:57884, origin: "http://3rbe.gq"
+[NONE ][18:00:08] DISCONNECTED 10.240.0.88:57884, code: 1005, reason: "", name: ""
+[NONE ][18:12:00] CONNECTED 10.240.0.90:43806, origin: "http://3rbe.gq"
+[NONE ][18:12:01] DISCONNECTED 10.240.0.90:43806, code: 1005, reason: "", name: ""
+[NONE ][18:18:16] CONNECTED 10.240.0.239:45542, origin: "http://3rbe.gq"
+[NONE ][18:18:20] DISCONNECTED 10.240.0.239:45542, code: 1005, reason: "", name: "An unnamed cell"
+[DEBUG][18:18:20] process.exit(0)
+=== Shutdown 2018-09-24T18-18-20-522 ===

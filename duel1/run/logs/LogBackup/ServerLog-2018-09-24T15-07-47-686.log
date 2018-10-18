@@ -1,0 +1,30 @@
+=== Started 2018-09-24T15-02-04-547 ===
+[INFO ][15:02:04] 33 bad words loaded
+[WARN ][15:02:04] Unknown user role: JOKER
+[INFO ][15:02:04] 4 user records loaded.
+[INFO ][15:02:04] 0 IP ban records loaded.
+[INFO ][15:02:04] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][15:02:04] WebSocket: ws
+[INFO ][15:02:04] Started stats server on port 1051
+[INFO ][15:02:04] Listening on port 8081
+[INFO ][15:02:04] Current game mode is Duels US 1
+[NONE ][15:02:04]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][15:03:01] CONNECTED 10.240.1.220:42914, origin: "http://3rbe.gq"
+[NONE ][15:03:01] DISCONNECTED 10.240.1.220:42914, code: 1006, reason: "", name: ""
+[NONE ][15:05:56] CONNECTED 10.240.0.185:57782, origin: "http://3rbe.gq"
+[NONE ][15:06:09] DISCONNECTED 10.240.0.185:57782, code: 1001, reason: "", name: ""
+[NONE ][15:06:21] CONNECTED 10.240.1.220:46278, origin: "http://3rbe.gq"
+[NONE ][15:06:51] DISCONNECTED 10.240.1.220:46278, code: 1006, reason: "", name: ""
+[NONE ][15:07:40] CONNECTED 10.240.0.187:38360, origin: "http://3rbe.gq"
+[NONE ][15:07:40] DISCONNECTED 10.240.0.187:38360, code: 1006, reason: "", name: ""
+[NONE ][15:07:42] CONNECTED 10.240.0.87:36976, origin: "http://3rbe.gq"
+[NONE ][15:07:42] DISCONNECTED 10.240.0.87:36976, code: 1006, reason: "", name: ""
+[NONE ][15:07:42] CONNECTED 10.240.0.227:42982, origin: "http://3rbe.gq"
+[NONE ][15:07:47] DISCONNECTED 10.240.0.227:42982, code: 1005, reason: "", name: "An unnamed cell"
+[DEBUG][15:07:47] process.exit(0)
+=== Shutdown 2018-09-24T15-07-47-549 ===

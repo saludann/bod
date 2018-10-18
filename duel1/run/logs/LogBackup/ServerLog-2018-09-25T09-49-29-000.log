@@ -1,0 +1,24 @@
+=== Started 2018-09-25T08-49-09-823 ===
+[INFO ][08:49:09] 33 bad words loaded
+[WARN ][08:49:09] Unknown user role: JOKER
+[INFO ][08:49:09] 4 user records loaded.
+[INFO ][08:49:09] 0 IP ban records loaded.
+[INFO ][08:49:09] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][08:49:09] WebSocket: ws
+[INFO ][08:49:09] Started stats server on port 1051
+[INFO ][08:49:09] Listening on port 8081
+[INFO ][08:49:09] Current game mode is Duels US 1
+[NONE ][08:49:09]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][09:23:46] CONNECTED 10.240.0.187:51608, origin: "http://3rbe.gq"
+[NONE ][09:23:52] DISCONNECTED 10.240.0.187:51608, code: 1005, reason: "", name: ""
+[NONE ][09:38:42] CONNECTED 10.240.1.220:47144, origin: "http://3rbe.gq"
+[NONE ][09:38:45] DISCONNECTED 10.240.1.220:47144, code: 1001, reason: "", name: ""
+[NONE ][09:49:18] CONNECTED 10.240.0.185:49522, origin: "http://3rbe.gq"
+[NONE ][09:49:28] DISCONNECTED 10.240.0.185:49522, code: 1001, reason: "", name: "{5b9ef7e36dcbc}KAHLIL"
+[DEBUG][09:49:28] process.exit(0)
+=== Shutdown 2018-09-25T09-49-28-858 ===
