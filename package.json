@@ -5,7 +5,7 @@
     "author": "Megabyte918 (https://github.com/Megabyte918)",
     "homepage": "https://github.com/Megabyte918/MultiOgar-Edited",
     "license": "Apache-2.0",
-    "main": "src/index.js",
+    "main": "duel/run/lin-Start.sh",
     "dependencies": {
         "ws": "latest",
         "figlet": "latest"
